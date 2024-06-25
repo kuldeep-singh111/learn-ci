@@ -21,4 +21,5 @@ function data(){
   console.log("i am fine");
   console.log("hello");
   console.log("hhii");
+  console.log("features b ")
 }

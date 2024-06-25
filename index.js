@@ -18,4 +18,5 @@ console.log("hello kuldeep");
 
 function data(){
   cosnole.log("hello kuldeep how are you");
+  console.log("i am fine");
 }
